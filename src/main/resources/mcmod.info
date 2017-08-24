@@ -1,0 +1,16 @@
+[
+{
+  "modid": "oldwool",
+  "name": "Old Wool",
+  "description": "Reverts the 1.12+ bright wool textures back to their original texture.",
+  "version": "1.0",
+  "mcversion": "1.12",
+  "url": "https://thepoptartcrpr.github.io",
+  "updateUrl": "",
+  "authorList": ["ThePoptartCrpr"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
